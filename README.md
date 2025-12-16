@@ -1,8 +1,3 @@
-# 🧠 Python Console Systems Collection
-
-## Nome do Repositório
-**TerminalCraft-PythonSystems**
-
 ## Visão Geral
 Este repositório reúne quatro sistemas completos desenvolvidos em Python para execução em terminal. Os projetos demonstram domínio de estruturas condicionais, laços de repetição, funções, listas, dicionários e controle de fluxo.
 
